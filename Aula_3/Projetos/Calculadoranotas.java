@@ -1,3 +1,4 @@
+package Aula_3.Projetos;
 // Exemplo classe calculadora de notas
 
 public class Calculadoranotas {
